@@ -1,11 +1,11 @@
-export const firebaseConfig = {
-  apiKey: 'TU_API_KEY',
-  authDomain: 'TU_PROYECTO.firebaseapp.com',
-  projectId: 'TU_PROYECTO',
-  storageBucket: 'TU_PROYECTO.firebasestorage.app',
-  messagingSenderId: '1234567890',
-  appId: '1:1234567890:web:abcdefghijk'
+const firebaseConfig = {
+  apiKey: "AIzaSyBjttWXgzoaBhJIjjCjUwZT8JYIiNKc1xs",
+  authDomain: "blog-6deb5.firebaseapp.com",
+  projectId: "blog-6deb5",
+  storageBucket: "blog-6deb5.firebasestorage.app",
+  messagingSenderId: "1056300937256",
+  appId: "1:1056300937256:web:ff9f400a152ad4f45d851d"
 };
 
-export const ADMIN_PASSWORD = 'CAMBIA_ESTA_PASSWORD';
+export const ADMIN_PASSWORD = '1101';
 export const COLLECTION_NAME = 'posts';
